@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "withered-block-8ba3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5eb04e5b-f7b7-4c94-950a-00a20e459b0c",
+      "database_name": "jolly-bonus-47a5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
